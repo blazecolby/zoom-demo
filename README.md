@@ -6,10 +6,9 @@ Running the application:
 
 Tech stack: react js, node.js, express, running on ngrok, docker
 
+Below is an example of the home page of the app:
 
-
-
-![ngrok https origin](screenshots/ngrok-https-origin.png)
+![ngrok https origin](screenshots/Xnapper-2023-01-27-11.00.48.png)
 
 
 

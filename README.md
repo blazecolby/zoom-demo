@@ -4,7 +4,7 @@ Running the application:
 - Go to your apps and click on 'Hello'
 - You should see a welcome message with a few data points. 
 
-Tech stack: react js, node.js, express, running on ngrok, 
+Tech stack: react js, node.js, express, running on ngrok, docker
 
 
 

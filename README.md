@@ -10,6 +10,9 @@ Below is an example of the home page of the app:
 
 ![ngrok https origin](screenshots/Xnapper-2023-01-27-11.00.48.png)
 
+Below is an example of the sidebar in a meeting:
+
+![ngrok https origin](screenshots/Xnapper-2023-01-27-12.13.40.png)
 
 
 #### Endpoints
